@@ -1,0 +1,14 @@
+POST /front/vote/saveVoteLog HTTP/1.1
+Host: www.jxsoa.com
+Content-Length: 424
+Accept: */*
+Origin: http://www.jxsoa.com
+X-Requested-With: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Linux; Android 7.1.1; MX6 Build/NMF26O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043621 Safari/537.36 MicroMessenger/6.5.16.1120 NetType/WIFI Language/en
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Referer: http://www.jxsoa.com/front/article/30520.html?from=singlemessage&isappinstalled=0
+Accept-Language: en,en-US;q=0.8
+Cookie: JSESSIONID=69A870008BE6ABF88990E59780180A77; openId=oWK1XwEge86uYpX2i2f632-Oj7bY
+Connection: close
+
+voteLog.vote_id=477&voteLog.open_id=oWK1XwEge86uYpX2i2f632-Oj7bY&voteLog.head_url=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fvi_32%2FQ0j4TwGTfTKBrpXtgvny3cNBqSp6mDKJeXp7qwMsmnZyUVxquicDjkynRZONobFCHlQRwLfHN0q9BGqsZ9PAwIg%2F0&voteLog.nick_name=%E6%AF%94%E7%89%B9&voteLog.options=1&voteLog.vote_count=1&voteLog.k_id=30438&voteLog.c_id=30520&checkCodeMd5=6DAAAFCD2D4D3384803939F15F89CD8D&checkCode=b52d2455-e74c-4b0b-b7b7-2440f88df553
